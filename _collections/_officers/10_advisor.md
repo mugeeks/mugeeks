@@ -3,7 +3,7 @@ position: Faculty Advisor
 name: Husnu Narman, Ph.D.
 image: /img/headshots/narman.jpg
 contact:
-  Website: <a href="https://hsnarman.oucreate.com/">hsnarman.oucreate.com</a>
+  Website: <a href="https://hsnarman.github.io/">hsnarman.github.io/</a>
   LinkedIn: <a href="http://www.linkedin.com/in/husnunarman">/in/husnunarman</a>
 ---
 
